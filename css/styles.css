@@ -29,6 +29,7 @@ img {
   max-width: 1158px;
   margin-left: auto;
   margin-right: auto;
+  padding:0 15px;
 }
 
 .footer .container {
@@ -206,10 +207,6 @@ body {
   padding: 120px 0;
 }
 
-.section-benefits .container {
-  padding:0 15px;
-}
-
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -288,10 +285,6 @@ body {
 .section-team {
   background-color: #f4f4fd;
   padding: 120px 0;
-}
-
-.section-team .container {
-  padding: 0 15px;
 }
 
 .team-ul {
