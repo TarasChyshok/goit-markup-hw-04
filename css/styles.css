@@ -159,7 +159,6 @@ body {
     ),
     url(../images/img-name.jpeg);
   background-size: cover;
-  max-width: 1440px;
   background-repeat: no-repeat;
   background-position: center;
 }
